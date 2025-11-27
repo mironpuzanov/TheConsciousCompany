@@ -1,9 +1,38 @@
+# Virtual environments
 venv/
 backend/venv/
+
+# Python cache
 __pycache__/
 *.pyc
-*.log
-.DS_Store
+*.pyo
+*.pyd
+.Python
+
+# Environment files
 .env
 .env.local
+
+# Log files
+*.log
+logs/
+backend/logs/
+frontend.log
+muselsl.log
+start_log.txt
+
+# OS files
+.DS_Store
+**/.DS_Store
+
+# Node modules
 node_modules/
+
+# Build outputs
+dist/
+build/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
