@@ -1,0 +1,16 @@
+[
+  {
+    "timestamp": 1763742703.370512,
+    "local_time": "2025-11-21T17:31:43.370514",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1763742725.140853,
+    "local_time": "2025-11-21T17:32:05.140854",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 21.8s",
+    "data": null
+  }
+]

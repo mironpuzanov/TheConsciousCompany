@@ -1,0 +1,24 @@
+text_experts:
+  emotion:
+    models:
+      - ref: emotion_distilroberta
+      - ref: emotion_distilbert
+      - ref: twitter_roberta_emotion
+  stress:
+    models:
+      - ref: beto_emotion
+      - ref: hatexplain
+  psychological_labels:
+    models:
+      - ref: zero_shot_psych
+  triggers:
+    models:
+      - ref: ner_triggers
+embeddings:
+  primary:
+    ref: minilm
+  secondary:
+    ref: mpnet
+  intent:
+    ref: instructor_xl
+

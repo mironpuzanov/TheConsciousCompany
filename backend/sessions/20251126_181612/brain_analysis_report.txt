@@ -1,0 +1,146 @@
+
+================================================================================
+CONSCIOUSNESS OS - SESSION BRAIN DATA ANALYSIS
+================================================================================
+
+SESSION: Unnamed Session
+ID: 20251126_181612
+Date: November 26, 2025 at 06:16 PM
+Duration: 1.4 minutes
+Samples: 1944 samples
+
+================================================================================
+1. BRAIN STATE ANALYSIS
+================================================================================
+
+Dominant State: mixed
+
+State Distribution:
+  • artifact_detected: 122 samples (6.3%)
+  • mixed: 641 samples (33.0%)
+  • meditative: 462 samples (23.8%)
+  • entering_meditation: 106 samples (5.5%)
+  • returning: 613 samples (31.5%)
+
+State Transitions: 38 transitions
+Average Duration per State:
+  • artifact_detected: 122.0 seconds
+  • mixed: 238.0 seconds
+  • meditative: 33.0 seconds
+  • entering_meditation: 11.8 seconds
+  • returning: 51.1 seconds
+
+================================================================================
+2. BRAIN WAVE BAND ANALYSIS
+================================================================================
+
+Frequency Balance: Balanced state - no single frequency dominates
+
+Dominant Frequencies (highest to lowest):
+  DELTA   :  34.9%
+  GAMMA   :  28.0%
+  BETA    :  17.9%
+  THETA   :  11.2%
+  ALPHA   :   8.0%
+
+Detailed Band Statistics:
+
+DELTA (1-4 Hz) - Deep Sleep / Unconscious:
+  Mean: 34.9%
+  Range: 8.1% - 93.2%
+
+THETA (4-8 Hz) - Meditation / Creativity:
+  Mean: 11.2%
+  Range: 3.0% - 22.6%
+
+ALPHA (8-13 Hz) - Relaxed Awareness:
+  Mean: 8.0%
+  Range: 1.0% - 16.8%
+
+BETA (13-30 Hz) - Active Thinking:
+  Mean: 17.9%
+  Range: 0.7% - 35.4%
+
+GAMMA (30-100 Hz) - High-level Processing / Artifacts:
+  Mean: 28.0%
+  Range: 0.6% - 47.6%
+
+================================================================================
+3. COGNITIVE LOAD & MENTAL EFFORT
+================================================================================
+
+Average Cognitive Load: 0.35 (0-1 scale)
+Peak Cognitive Load: 0.61
+
+Cognitive Load Distribution:
+  • Low Load (<30%): 23.8% of session
+  • High Load (>70%): 0.0% of session
+
+================================================================================
+4. STRESS & TENSION INDICATORS
+================================================================================
+
+Average Stress Score: 0.41 (0-1 scale)
+Muscle Tension (EMG): 0.91
+Mental Tension (Forehead): 0.52
+
+Period Distribution:
+  • Stressed Periods (>70%): 0 samples
+  • Relaxed Periods (<30%): 177 samples
+
+Heart Rate:
+  • Average: 66 bpm
+  • Variability: Low
+
+================================================================================
+5. ATTENTION & FOCUS
+================================================================================
+
+Moderate focus - intermittent attention
+
+Focus Score: 0.62 (0-1 scale)
+Peak Focus: 0.72
+Blink Rate: 0.098
+
+Attention Periods:
+  • Focused (>60%): 1669 samples
+  • Unfocused (<40%): 162 samples
+
+================================================================================
+6. EMOTIONAL STATE INDICATORS
+================================================================================
+
+Emotional State: Sad/Bored (low arousal, negative valence)
+
+Arousal Level: 0.00
+Valence Estimate: 0.08
+
+Meditation Indicators:
+  • Theta Activity: 11.2%
+  • Alpha Relaxation: 8.0%
+
+================================================================================
+7. TALKING PATTERNS
+================================================================================
+
+Talking Ratio: 3.4%
+Talking Duration: 66 seconds
+Silence Duration: 1878 seconds
+
+Episodes: 2 talking episodes
+Average Episode: 33.0 seconds
+Longest Episode: 43 seconds
+
+================================================================================
+8. KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+💤 High delta activity - deeply relaxed or drowsy state
+🎯 Good focus maintained throughout session
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generated: 2025-11-26 18:18:24
+Analysis Tool: Consciousness OS Brain Data Analyzer

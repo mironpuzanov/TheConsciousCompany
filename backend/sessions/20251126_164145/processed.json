@@ -1,0 +1,3698 @@
+[
+  {
+    "timestamp": 1764171705.3725984,
+    "local_time": "2025-11-26T16:41:45.457321",
+    "band_powers": {
+      "delta": 40.301474359149815,
+      "theta": 18.28933458510086,
+      "alpha": 6.3629185474939804,
+      "beta": 19.689068887460596,
+      "gamma": 15.357203620794754
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.862420726784904,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24387359619140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.014012736147445169,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.021606460213661194,
+      0.11804207414388657,
+      1.0063483715057373
+    ],
+    "gyro_data": [
+      2.631833553314209,
+      5.502924919128418,
+      -3.4468047618865967
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.4194677,
+    "local_time": "2025-11-26T16:41:45.512511",
+    "band_powers": {
+      "delta": 42.798340363813246,
+      "theta": 18.452705171855133,
+      "alpha": 5.867997597003541,
+      "beta": 18.603613453913546,
+      "gamma": 14.27734341341454
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.6938309251909,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24074554443359375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.018141059074962107,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.000427246413892135,
+      0.11566170305013657,
+      1.0067145824432373
+    ],
+    "gyro_data": [
+      4.859920024871826,
+      7.028192043304443,
+      -3.043057680130005
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.4663417,
+    "local_time": "2025-11-26T16:41:45.557890",
+    "band_powers": {
+      "delta": 45.214601143633004,
+      "theta": 18.530705965758475,
+      "alpha": 5.431855092255506,
+      "beta": 17.50528025267982,
+      "gamma": 13.317557545673196
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.4775678493116,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2436065673828125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.017348664121491365,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.00012207039981149137,
+      0.11566170305013657,
+      1.0117194652557373
+    ],
+    "gyro_data": [
+      4.904780864715576,
+      6.631921768188477,
+      -2.684171199798584
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.5132148,
+    "local_time": "2025-11-26T16:41:45.599428",
+    "band_powers": {
+      "delta": 47.86854321419885,
+      "theta": 18.535408693548547,
+      "alpha": 5.013691497566016,
+      "beta": 16.24564204603478,
+      "gamma": 12.336714548651816
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.649084406988415,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24776458740234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.015516599478502115,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.023742692545056343,
+      0.11578377336263657,
+      0.9907844066619873
+    ],
+    "gyro_data": [
+      1.2934863567352295,
+      7.641289710998535,
+      0.35888639092445374
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.5600877,
+    "local_time": "2025-11-26T16:41:45.641162",
+    "band_powers": {
+      "delta": 50.593864810016704,
+      "theta": 18.48548128699719,
+      "alpha": 4.63945690490919,
+      "beta": 14.904719505314798,
+      "gamma": 11.376477492762126
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.1041912631844,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25135040283203125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.6069593,
+    "local_time": "2025-11-26T16:41:45.698852",
+    "band_powers": {
+      "delta": 53.39418458974408,
+      "theta": 18.4304505725796,
+      "alpha": 4.293016963692423,
+      "beta": 13.479714476867917,
+      "gamma": 10.402633397115988
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.2315982314402,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.243988037109375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.01773426995334862,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.026062030345201492,
+      0.10656745731830597,
+      1.0079963207244873
+    ],
+    "gyro_data": [
+      0.6654351949691772,
+      8.658134460449219,
+      1.7944320440292358
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.6538315,
+    "local_time": "2025-11-26T16:41:45.747322",
+    "band_powers": {
+      "delta": 55.240416739349556,
+      "theta": 18.540880024647944,
+      "alpha": 4.07735440230097,
+      "beta": 12.343394830896887,
+      "gamma": 9.797954002804651
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.40435039869396,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25707244873046875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.018082811052000065,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.024292008951306343,
+      0.10870368778705597,
+      1.0054938793182373
+    ],
+    "gyro_data": [
+      0.8448783755302429,
+      7.760918617248535,
+      4.560848236083984
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.7007017,
+    "local_time": "2025-11-26T16:41:45.776482",
+    "band_powers": {
+      "delta": 57.02243826513026,
+      "theta": 18.650873948115795,
+      "alpha": 3.8490744353832365,
+      "beta": 11.191680386214555,
+      "gamma": 9.285932965156162
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.53144491337534,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25665283203125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.7475774,
+    "local_time": "2025-11-26T16:41:45.846742",
+    "band_powers": {
+      "delta": 58.309079850041186,
+      "theta": 18.739778215041465,
+      "alpha": 3.6465815543548445,
+      "beta": 10.309302432626229,
+      "gamma": 8.995257947936286
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.83969948534859,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2490997314453125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.01819309926608069,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.047485385090112686,
+      0.10791023075580597,
+      1.0069587230682373
+    ],
+    "gyro_data": [
+      -0.8822624087333679,
+      6.796411037445068,
+      5.98144006729126
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.7944465,
+    "local_time": "2025-11-26T16:41:45.891540",
+    "band_powers": {
+      "delta": 58.92829937095224,
+      "theta": 18.862794644409465,
+      "alpha": 3.468837413596955,
+      "beta": 9.721644856316102,
+      "gamma": 9.018423714725246
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.63069063138553,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2552032470703125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 6.65533872488103e-05,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.06054691970348358,
+      0.12695321440696716,
+      0.9941413402557373
+    ],
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.8413155,
+    "local_time": "2025-11-26T16:41:45.939532",
+    "band_powers": {
+      "delta": 59.172162109107724,
+      "theta": 18.92794964446153,
+      "alpha": 3.3265814095388557,
+      "beta": 9.40770999250454,
+      "gamma": 9.16559684438735
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.81604528233764,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25691986083984375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.012671426659046593,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.03344728797674179,
+      0.11566170305013657,
+      1.0222175121307373
+    ],
+    "gyro_data": [
+      0.05233760178089142,
+      4.037471771240234,
+      4.882350444793701
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.8881888,
+    "local_time": "2025-11-26T16:41:45.983837",
+    "band_powers": {
+      "delta": 59.13164292691093,
+      "theta": 18.903650179019152,
+      "alpha": 3.255160089263593,
+      "beta": 9.376632034090738,
+      "gamma": 9.332914770715584
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.49976529462393,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25714874267578125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.014105058219613829,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.07403569668531418,
+      0.12347421050071716,
+      1.0196540355682373
+    ],
+    "gyro_data": [
+      -0.9944143891334534,
+      3.5514800548553467,
+      6.01134729385376
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.9350617,
+    "local_time": "2025-11-26T16:41:46.030307",
+    "band_powers": {
+      "delta": 58.97654543588216,
+      "theta": 18.754954247866646,
+      "alpha": 3.2728630241280228,
+      "beta": 9.55564876357651,
+      "gamma": 9.439988528546658
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.997018112569066,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26641845703125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.010628486364969273,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.07427983731031418,
+      0.12286385893821716,
+      1.0120856761932373
+    ],
+    "gyro_data": [
+      -0.2392576038837433,
+      3.072964906692505,
+      4.329067230224609
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171705.981933,
+    "local_time": "2025-11-26T16:41:46.058893",
+    "band_powers": {
+      "delta": 57.883234002885274,
+      "theta": 18.718284580020978,
+      "alpha": 3.4616883588263425,
+      "beta": 10.181995176191036,
+      "gamma": 9.754797882076371
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.7267014754658,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2657318115234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.006213756303989006,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.06945805996656418,
+      0.11242683976888657,
+      0.9993293285369873
+    ],
+    "gyro_data": [
+      0.9196463823318481,
+      2.280424118041992,
+      1.8991072177886963
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.0288048,
+    "local_time": "2025-11-26T16:41:46.118748",
+    "band_powers": {
+      "delta": 56.883176371663126,
+      "theta": 18.599137802131953,
+      "alpha": 3.7190737199674735,
+      "beta": 10.80544625378425,
+      "gamma": 9.993165852453208
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.64286119224762,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26393890380859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.0756752,
+    "local_time": "2025-11-26T16:41:46.177532",
+    "band_powers": {
+      "delta": 56.008862485538536,
+      "theta": 18.36271433004307,
+      "alpha": 4.038442353815269,
+      "beta": 11.402906558000664,
+      "gamma": 10.187074272602462
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.47667134078544,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26142120361328125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.122551,
+    "local_time": "2025-11-26T16:41:46.225154",
+    "band_powers": {
+      "delta": 55.54362368343511,
+      "theta": 17.88975096445486,
+      "alpha": 4.339636412984046,
+      "beta": 11.883063836021325,
+      "gamma": 10.343925103104672
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.203623319644095,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26294708251953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0016287758102418405,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.03631594404578209,
+      0.11572273820638657,
+      1.0197150707244873
+    ],
+    "gyro_data": [
+      -0.2542111873626709,
+      0.5084223747253418,
+      -0.583190381526947
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.1694202,
+    "local_time": "2025-11-26T16:41:46.280343",
+    "band_powers": {
+      "delta": 54.65420033018225,
+      "theta": 17.393578258422046,
+      "alpha": 4.693391527269581,
+      "beta": 12.51342979000322,
+      "gamma": 10.745400094122902
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.242317934461575,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25974273681640625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.004866908572953446,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.04302981495857239,
+      0.11718758195638657,
+      1.0100104808807373
+    ],
+    "gyro_data": [
+      -1.420591950416565,
+      1.3084399700164795,
+      1.480406403541565
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.216289,
+    "local_time": "2025-11-26T16:41:46.299459",
+    "band_powers": {
+      "delta": 53.514854983809755,
+      "theta": 16.837817943850453,
+      "alpha": 5.103532985600709,
+      "beta": 13.232649140251706,
+      "gamma": 11.311144946487385
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.431066616130785,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.255126953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.007528317217117988,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.015502940863370895,
+      0.10815437138080597,
+      1.0134894847869873
+    ],
+    "gyro_data": [
+      -1.188811182975769,
+      0.2990719974040985,
+      3.5589568614959717
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.263162,
+    "local_time": "2025-11-26T16:41:46.356858",
+    "band_powers": {
+      "delta": 52.32530612469603,
+      "theta": 16.237050382916042,
+      "alpha": 5.5502070434477595,
+      "beta": 13.961603491576204,
+      "gamma": 11.925832957363964
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 63.97436126490827,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25760650634765625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.09724073135390603,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.03460695967078209,
+      0.09100348502397537,
+      0.9467169642448425
+    ],
+    "gyro_data": [
+      -21.338787078857422,
+      -7.641289710998535,
+      43.01403045654297
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.3100348,
+    "local_time": "2025-11-26T16:41:46.405248",
+    "band_powers": {
+      "delta": 51.56316550138209,
+      "theta": 15.531396850824445,
+      "alpha": 5.9245000442908635,
+      "beta": 14.552917394448723,
+      "gamma": 12.428020209053871
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.40931603838906,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26096343994140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.08348942234481158,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.17138683795928955,
+      0.18072523176670074,
+      1.1812752485275269
+    ],
+    "gyro_data": [
+      -19.708845138549805,
+      -11.731099128723145,
+      34.8792724609375
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.3569062,
+    "local_time": "2025-11-26T16:41:46.435573",
+    "band_powers": {
+      "delta": 50.308584697045234,
+      "theta": 14.918644837579874,
+      "alpha": 6.432209380629489,
+      "beta": 15.306363414807699,
+      "gamma": 13.034197669937694
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.71822940261445,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4720396134606105,
+    "forehead_emg": 0.2610015869140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.04797742377944889,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.16607677936553955,
+      0.21093764901161194,
+      1.1995857954025269
+    ],
+    "gyro_data": [
+      -8.104850769042969,
+      -2.82623028755188,
+      22.400493621826172
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.4037786,
+    "local_time": "2025-11-26T16:41:46.495052",
+    "band_powers": {
+      "delta": 48.83014220985742,
+      "theta": 14.453564072782088,
+      "alpha": 6.979521291515843,
+      "beta": 16.114188920144546,
+      "gamma": 13.622583505700094
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 64.73747585012457,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.23486030806223895,
+    "forehead_emg": 0.254974365234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.4506488,
+    "local_time": "2025-11-26T16:41:46.530943",
+    "band_powers": {
+      "delta": 47.47070562318651,
+      "theta": 14.30723452500894,
+      "alpha": 7.432629066036712,
+      "beta": 16.757374161866878,
+      "gamma": 14.032056623900953
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.09199842559632,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.11503866484151713,
+    "forehead_emg": 0.25341033935546875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.07301928097375461,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.11596687883138657,
+      0.13964854180812836,
+      0.9893195629119873
+    ],
+    "gyro_data": [
+      11.716145515441895,
+      25.42859649658203,
+      23.43229103088379
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.497519,
+    "local_time": "2025-11-26T16:41:46.572074",
+    "band_powers": {
+      "delta": 45.864869280446584,
+      "theta": 14.678569938638578,
+      "alpha": 7.860957100697204,
+      "beta": 17.276493983377247,
+      "gamma": 14.319109696840382
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.06678744198099,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.09084567116477356,
+    "forehead_emg": 0.2515411376953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.09793989055401833,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.22766129672527313,
+      0.20538344979286194,
+      0.9776008129119873
+    ],
+    "gyro_data": [
+      -1.8991072177886963,
+      29.525882720947266,
+      39.021419525146484
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.5404763,
+    "local_time": "2025-11-26T16:41:46.590852",
+    "band_powers": {
+      "delta": 44.12669524345299,
+      "theta": 15.184183168360457,
+      "alpha": 8.301786528833217,
+      "beta": 17.78839559858484,
+      "gamma": 14.598939460768488
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.04544080307714,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.090136522094617,
+    "forehead_emg": 0.25234222412109375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.06634912358572657,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.2850343883037567,
+      0.22369401156902313,
+      0.9655158519744873
+    ],
+    "gyro_data": [
+      3.5589568614959717,
+      16.650833129882812,
+      28.471654891967773
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.5443883,
+    "local_time": "2025-11-26T16:41:46.632651",
+    "band_powers": {
+      "delta": 42.39950225690141,
+      "theta": 16.040717145897396,
+      "alpha": 8.68478300115929,
+      "beta": 18.11871787106986,
+      "gamma": 14.756279724972055
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.37795008739072,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.08864611384701093,
+    "forehead_emg": 0.2657318115234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.05361484973983461,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.24493426084518433,
+      0.21514907479286194,
+      1.0171515941619873
+    ],
+    "gyro_data": [
+      12.045125007629395,
+      -23.439767837524414,
+      4.912257671356201
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.591257,
+    "local_time": "2025-11-26T16:41:46.690696",
+    "band_powers": {
+      "delta": 40.73487405733792,
+      "theta": 17.062385466005345,
+      "alpha": 9.027440188951333,
+      "beta": 18.32756950421199,
+      "gamma": 14.847730783493416
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.54457685703288,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.09299966738336782,
+    "forehead_emg": 0.26538848876953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.11310198393194773,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.045593295246362686,
+      0.13568125665187836,
+      1.0247809886932373
+    ],
+    "gyro_data": [
+      16.695693969726562,
+      -53.98997116088867,
+      2.086027145385742
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.6381302,
+    "local_time": "2025-11-26T16:41:46.720604",
+    "band_powers": {
+      "delta": 39.07914832628223,
+      "theta": 18.20596583479014,
+      "alpha": 9.343579772413568,
+      "beta": 18.464126310449103,
+      "gamma": 14.907179756064966
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.68197742694123,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.10024636739389098,
+    "forehead_emg": 0.2652740478515625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.13582426193384323,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.04339602589607239,
+      0.10388191044330597,
+      0.9716193675994873
+    ],
+    "gyro_data": [
+      12.23204517364502,
+      -65.84817504882812,
+      11.245107650756836
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.6850028,
+    "local_time": "2025-11-26T16:41:46.778785",
+    "band_powers": {
+      "delta": 37.2973799087329,
+      "theta": 19.53563998617254,
+      "alpha": 9.654619397208668,
+      "beta": 18.559869997664556,
+      "gamma": 14.952490710221333
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.85493683505038,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.09964131207406723,
+    "forehead_emg": 0.25493621826171875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.7318747,
+    "local_time": "2025-11-26T16:41:46.823577",
+    "band_powers": {
+      "delta": 35.53759507743357,
+      "theta": 20.912477936931438,
+      "alpha": 9.949200115971546,
+      "beta": 18.616422729272184,
+      "gamma": 14.984304140391261
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.9945389793024,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.08441396506180433,
+    "forehead_emg": 0.24791717529296875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.032676381287704115,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.17187511920928955,
+      0.11169441789388657,
+      1.0166022777557373
+    ],
+    "gyro_data": [
+      -7.088006496429443,
+      -10.078726768493652,
+      10.729207992553711
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.7787526,
+    "local_time": "2025-11-26T16:41:46.882751",
+    "band_powers": {
+      "delta": 33.87381688083174,
+      "theta": 22.281036133952068,
+      "alpha": 10.207692278656756,
+      "beta": 18.63625431739879,
+      "gamma": 15.001200389160648
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 65.98982146854809,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.0692548481288744,
+    "forehead_emg": 0.2378082275390625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.01785220619777455,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.18310560286045074,
+      0.11456307023763657,
+      0.9956061840057373
+    ],
+    "gyro_data": [
+      -5.69732141494751,
+      1.7420943975448608,
+      6.646875381469727
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.8256285,
+    "local_time": "2025-11-26T16:41:46.928464",
+    "band_powers": {
+      "delta": 32.09777301128238,
+      "theta": 23.815144121493393,
+      "alpha": 10.454066966203067,
+      "beta": 18.62864394822174,
+      "gamma": 15.004371952799426
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 66.11422844639694,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.07697023075378173,
+    "forehead_emg": 0.23319244384765625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.060907533415686194,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.15942394733428955,
+      0.14379893243312836,
+      0.9812629222869873
+    ],
+    "gyro_data": [
+      -0.6953424215316772,
+      30.44552993774414,
+      0.13458240032196045
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.8724988,
+    "local_time": "2025-11-26T16:41:46.946663",
+    "band_powers": {
+      "delta": 30.56354120223468,
+      "theta": 25.22784900615442,
+      "alpha": 10.643919739179658,
+      "beta": 18.585288067432998,
+      "gamma": 14.979401984998256
+    },
+    "brain_state": "artifact_detected",
+    "signal_quality": 66.02583056250722,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.11117253934008245,
+    "forehead_emg": 0.23799896240234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.08807162927767384,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.11260994523763657,
+      0.15509043633937836,
+      0.9342047572135925
+    ],
+    "gyro_data": [
+      -1.166380763053894,
+      43.95610809326172,
+      -2.377622365951538
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.9193678,
+    "local_time": "2025-11-26T16:41:47.015362",
+    "band_powers": {
+      "delta": 29.01568019712352,
+      "theta": 26.63844467708721,
+      "alpha": 10.81816757467454,
+      "beta": 18.562990745678164,
+      "gamma": 14.964716805436568
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.81250239296459,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.1787512850544152,
+    "forehead_emg": 0.26020050048828125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171706.966237,
+    "local_time": "2025-11-26T16:41:47.064158",
+    "band_powers": {
+      "delta": 27.626009933170916,
+      "theta": 27.916853238506622,
+      "alpha": 10.963451649856685,
+      "beta": 18.54504582064874,
+      "gamma": 14.948639357817036
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.53591028037982,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4243031460483776,
+    "forehead_emg": 0.274810791015625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.021575816811388707,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.04241946339607239,
+      0.10906989872455597,
+      1.0413215160369873
+    ],
+    "gyro_data": [
+      4.762721538543701,
+      -7.70858097076416,
+      5.854334354400635
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.0131106,
+    "local_time": "2025-11-26T16:41:47.109855",
+    "band_powers": {
+      "delta": 27.243536197757553,
+      "theta": 28.86452935615343,
+      "alpha": 10.985260642874346,
+      "beta": 18.28776429088963,
+      "gamma": 14.618909512325041
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.68070457487084,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4934115185973089,
+    "forehead_emg": 0.254364013671875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.01662433468388904,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.016540538519620895,
+      0.09558112174272537,
+      1.0670173168182373
+    ],
+    "gyro_data": [
+      5.196375846862793,
+      -4.149623870849609,
+      4.987025737762451
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.0599835,
+    "local_time": "2025-11-26T16:41:47.164541",
+    "band_powers": {
+      "delta": 27.415596712501447,
+      "theta": 29.562598668293706,
+      "alpha": 10.96360101953385,
+      "beta": 17.92873146742518,
+      "gamma": 14.129472132245812
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.55349593499513,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.3801695601849762,
+    "forehead_emg": 0.2446746826171875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.016356497741362136,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.004211428575217724,
+      0.09869391471147537,
+      1.0314948558807373
+    ],
+    "gyro_data": [
+      2.579495906829834,
+      7.63381290435791,
+      -1.3981616497039795
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.1068556,
+    "local_time": "2025-11-26T16:41:47.197554",
+    "band_powers": {
+      "delta": 28.0578610865309,
+      "theta": 29.989032203003383,
+      "alpha": 10.915064773740472,
+      "beta": 17.487961588704263,
+      "gamma": 13.550080348020979
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.09929781015825,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.2604904674825169,
+    "forehead_emg": 0.233612060546875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.010905317370645125,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.050476111471652985,
+      0.16088879108428955,
+      0.9603278636932373
+    ],
+    "gyro_data": [
+      -4.478603363037109,
+      -2.90099835395813,
+      -1.1215200424194336
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.1537273,
+    "local_time": "2025-11-26T16:41:47.245409",
+    "band_powers": {
+      "delta": 29.68528606714703,
+      "theta": 30.202823928083713,
+      "alpha": 10.79799591711026,
+      "beta": 16.697893503516802,
+      "gamma": 12.616000584142192
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.3201528401585,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.1276492784480813,
+    "forehead_emg": 0.20008087158203125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.07887175398595804,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08367925882339478,
+      0.14666758477687836,
+      1.0743415355682373
+    ],
+    "gyro_data": [
+      -6.624444961547852,
+      -38.871883392333984,
+      0.5308527946472168
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.2005978,
+    "local_time": "2025-11-26T16:41:47.275620",
+    "band_powers": {
+      "delta": 31.956655262752307,
+      "theta": 30.254063983122172,
+      "alpha": 10.618804375963245,
+      "beta": 15.63836828775308,
+      "gamma": 11.532108090409196
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.1532388892333,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.05947646984770117,
+    "forehead_emg": 0.16643524169921875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.07156790480110771,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.06884770840406418,
+      0.12664803862571716,
+      1.0468146800994873
+    ],
+    "gyro_data": [
+      1.0841360092163086,
+      -35.34283447265625,
+      5.495448112487793
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.2474682,
+    "local_time": "2025-11-26T16:41:47.334315",
+    "band_powers": {
+      "delta": 34.57267695616168,
+      "theta": 30.20780764702807,
+      "alpha": 10.383026967758124,
+      "beta": 14.397560554576561,
+      "gamma": 10.438927874475574
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.33147729989354,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.03596591381648405,
+    "forehead_emg": 0.1569366455078125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.032766954897577825,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": [
+      7.40950870513916,
+      -13.039539337158203,
+      6.594537734985352
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.294337,
+    "local_time": "2025-11-26T16:41:47.391537",
+    "band_powers": {
+      "delta": 37.34456654635826,
+      "theta": 30.08993591207844,
+      "alpha": 10.091499504191296,
+      "beta": 13.068108902536618,
+      "gamma": 9.405889134835386
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.68253526895678,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.02848631854000012,
+    "forehead_emg": 0.14789581298828125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.02426825118018131,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.23962420225143433,
+      0.11755379289388657,
+      0.9428107142448425
+    ],
+    "gyro_data": [
+      0.9271231889724731,
+      1.480406403541565,
+      12.00774097442627
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.341206,
+    "local_time": "2025-11-26T16:41:47.439058",
+    "band_powers": {
+      "delta": 39.93619704051218,
+      "theta": 30.06130993154326,
+      "alpha": 9.763568463964374,
+      "beta": 11.765065919802321,
+      "gamma": 8.473858644177865
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.76734040981623,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.028201972927887366,
+    "forehead_emg": 0.1381683349609375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.388079,
+    "local_time": "2025-11-26T16:41:47.484194",
+    "band_powers": {
+      "delta": 42.18654428609725,
+      "theta": 30.18327293297559,
+      "alpha": 9.413040622150259,
+      "beta": 10.57117756460398,
+      "gamma": 7.645964594172915
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.66993380831836,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.03326307515136619,
+    "forehead_emg": 0.13462066650390625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.05159315675074389,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08093267679214478,
+      0.15728771686553955,
+      0.9542853236198425
+    ],
+    "gyro_data": [
+      -6.258081436157227,
+      22.96872901916504,
+      9.936667442321777
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.434952,
+    "local_time": "2025-11-26T16:41:47.532016",
+    "band_powers": {
+      "delta": 44.641393197437914,
+      "theta": 30.110085960919058,
+      "alpha": 8.996137592920464,
+      "beta": 9.41805517123318,
+      "gamma": 6.8343280774893715
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.04392580950392,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.046517715402072474,
+    "forehead_emg": 0.147552490234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0538467757016046,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.06091313064098358,
+      0.15222178399562836,
+      0.9172369837760925
+    ],
+    "gyro_data": [
+      -6.863702297210693,
+      25.780006408691406,
+      3.6262478828430176
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.4818237,
+    "local_time": "2025-11-26T16:41:47.563440",
+    "band_powers": {
+      "delta": 46.76823508258061,
+      "theta": 30.137417185754728,
+      "alpha": 8.56540430992402,
+      "beta": 8.42683382120487,
+      "gamma": 6.102109600535771
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.3787359824586,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.08330867790073118,
+    "forehead_emg": 0.167083740234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.029634802546026438,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.047180209308862686,
+      0.16839611530303955,
+      0.9945075511932373
+    ],
+    "gyro_data": [
+      -14.228350639343262,
+      1.8168623447418213,
+      3.7159695625305176
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.528695,
+    "local_time": "2025-11-26T16:41:47.630184",
+    "band_powers": {
+      "delta": 48.86924826556183,
+      "theta": 30.22987872472693,
+      "alpha": 8.070752430210511,
+      "beta": 7.473866293668752,
+      "gamma": 5.356254285831962
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.27829688870871,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.2467011683256149,
+    "forehead_emg": 0.18955230712890625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0840683142523643,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08251959085464478,
+      0.20257583260536194,
+      1.0629889965057373
+    ],
+    "gyro_data": [
+      -8.516075134277344,
+      -39.97097396850586,
+      9.831992149353027
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.575566,
+    "local_time": "2025-11-26T16:41:47.661080",
+    "band_powers": {
+      "delta": 51.023366749437486,
+      "theta": 30.278926248945105,
+      "alpha": 7.518337445174485,
+      "beta": 6.566953108368632,
+      "gamma": 4.612416448074276
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.1868836304282,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4914037452608692,
+    "forehead_emg": 0.2045440673828125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.08654005288007247,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.16625988483428955,
+      0.15991222858428955,
+      1.0686042308807373
+    ],
+    "gyro_data": [
+      -0.2915951907634735,
+      -42.064476013183594,
+      10.138541221618652
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.6224363,
+    "local_time": "2025-11-26T16:41:47.706244",
+    "band_powers": {
+      "delta": 53.08258919557342,
+      "theta": 30.33108342260336,
+      "alpha": 6.944692491724845,
+      "beta": 5.7310021864099285,
+      "gamma": 3.9106327036884307
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.69379798280512,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.5184717389775653,
+    "forehead_emg": 0.222015380859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.05767425309390731,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2651368975639343,
+      0.10589607059955597,
+      0.9880378246307373
+    ],
+    "gyro_data": [
+      10.811452865600586,
+      -24.396799087524414,
+      10.931081771850586
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.6693063,
+    "local_time": "2025-11-26T16:41:47.763519",
+    "band_powers": {
+      "delta": 54.649416976222554,
+      "theta": 30.447802378588797,
+      "alpha": 6.461160012732146,
+      "beta": 5.076126018269057,
+      "gamma": 3.365494614187432
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.27190213400793,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.6446155372861749,
+    "forehead_emg": 0.2374267578125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.03346843146184105,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.24963396787643433,
+      0.10119636356830597,
+      0.9197394251823425
+    ],
+    "gyro_data": [
+      2.527158498764038,
+      -10.729207992553711,
+      12.590930938720703
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.7161758,
+    "local_time": "2025-11-26T16:41:47.811455",
+    "band_powers": {
+      "delta": 56.664078477658336,
+      "theta": 30.450462849228945,
+      "alpha": 5.861353113491736,
+      "beta": 4.284501698366456,
+      "gamma": 2.7396038612545177
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.93639306168114,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.8689473965768395,
+    "forehead_emg": 0.2434539794921875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.03470119793808456,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2764894664287567,
+      0.14025889337062836,
+      0.9446417689323425
+    ],
+    "gyro_data": [
+      -7.34969425201416,
+      2.736508846282959,
+      15.47697639465332
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.763049,
+    "local_time": "2025-11-26T16:41:47.856357",
+    "band_powers": {
+      "delta": 58.91069526470412,
+      "theta": 30.25620737198665,
+      "alpha": 5.233605519326938,
+      "beta": 3.4542770176791806,
+      "gamma": 2.145214826303116
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.94134194902736,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.6972661374725521,
+    "forehead_emg": 0.222015380859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.809927,
+    "local_time": "2025-11-26T16:41:47.914038",
+    "band_powers": {
+      "delta": 61.01595003756118,
+      "theta": 29.725586871412492,
+      "alpha": 4.712774949400624,
+      "beta": 2.80383785484597,
+      "gamma": 1.7418502867797352
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.61114100446397,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4466351653170812,
+    "forehead_emg": 0.22319793701171875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.856799,
+    "local_time": "2025-11-26T16:41:47.944536",
+    "band_powers": {
+      "delta": 63.315692784412896,
+      "theta": 28.680407046843857,
+      "alpha": 4.2306797325193015,
+      "beta": 2.297639167357684,
+      "gamma": 1.4755812688662695
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.66690342785773,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.3730933676081595,
+    "forehead_emg": 0.21808624267578125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.052582614524063126,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2736818492412567,
+      0.18981947004795074,
+      0.9276739954948425
+    ],
+    "gyro_data": [
+      -7.880547046661377,
+      25.032325744628906,
+      -1.5850815773010254
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.9036765,
+    "local_time": "2025-11-26T16:41:48.013651",
+    "band_powers": {
+      "delta": 65.64810247575997,
+      "theta": 27.542758354071097,
+      "alpha": 3.755614374638343,
+      "beta": 1.8233346309317937,
+      "gamma": 1.2301901645988138
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.84331363818862,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4115367119177368,
+    "forehead_emg": 0.218505859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.041726306983143224,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.17559826374053955,
+      0.19061292707920074,
+      0.9495245814323425
+    ],
+    "gyro_data": [
+      -2.183225631713867,
+      20.32942008972168,
+      4.149623870849609
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.9505467,
+    "local_time": "2025-11-26T16:41:48.034029",
+    "band_powers": {
+      "delta": 67.73761735446097,
+      "theta": 26.175776094206363,
+      "alpha": 3.3731690092907267,
+      "beta": 1.580383425956119,
+      "gamma": 1.133054116085833
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.53989177532956,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.5152704556756934,
+    "forehead_emg": 0.21442413330078125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171707.9974172,
+    "local_time": "2025-11-26T16:41:48.080564",
+    "band_powers": {
+      "delta": 69.89332644614048,
+      "theta": 24.588323151778077,
+      "alpha": 3.030181781267804,
+      "beta": 1.4187709639651827,
+      "gamma": 1.069397656848462
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.6982044094075,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.7221182493337032,
+    "forehead_emg": 0.2275848388671875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.010279389820275465,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.07562261074781418,
+      0.21734634041786194,
+      1.1080330610275269
+    ],
+    "gyro_data": [
+      -1.3009631633758545,
+      -4.710383892059326,
+      1.5925583839416504
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.0442863,
+    "local_time": "2025-11-26T16:41:48.138061",
+    "band_powers": {
+      "delta": 71.7586747965702,
+      "theta": 23.064749550533012,
+      "alpha": 2.7603697831540464,
+      "beta": 1.3637704128245385,
+      "gamma": 1.0524354569181935
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.93692044049682,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.23792266845703125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.0911558,
+    "local_time": "2025-11-26T16:41:48.183824",
+    "band_powers": {
+      "delta": 72.34116507305505,
+      "theta": 22.080205696285898,
+      "alpha": 2.767237022022658,
+      "beta": 1.6230229726560592,
+      "gamma": 1.1883692359803215
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.82170170059813,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.23563385009765625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.03155427793501433,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.12518319487571716,
+      0.21356216073036194,
+      1.0396735668182373
+    ],
+    "gyro_data": [
+      4.650569438934326,
+      -8.269340515136719,
+      -12.605884552001953
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.1380289,
+    "local_time": "2025-11-26T16:41:48.227480",
+    "band_powers": {
+      "delta": 72.46803769192935,
+      "theta": 21.22422818617895,
+      "alpha": 2.9327583528681047,
+      "beta": 1.9893600235510793,
+      "gamma": 1.38561574547251
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.91290655473912,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.22701263427734375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.04628871929517541,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.19989028573036194,
+      0.19946303963661194,
+      0.9956672191619873
+    ],
+    "gyro_data": [
+      12.239521980285645,
+      0.8074944019317627,
+      -19.62660026550293
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.1849017,
+    "local_time": "2025-11-26T16:41:48.274749",
+    "band_powers": {
+      "delta": 72.54721260615776,
+      "theta": 20.351573977973477,
+      "alpha": 3.152050977095233,
+      "beta": 2.3491317487752794,
+      "gamma": 1.6000306899982577
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.17024645327848,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2204132080078125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.2317734,
+    "local_time": "2025-11-26T16:41:48.317942",
+    "band_powers": {
+      "delta": 72.31178123432476,
+      "theta": 19.47411760654197,
+      "alpha": 3.503741070056608,
+      "beta": 2.8022890555115345,
+      "gamma": 1.908071033565143
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.4195770817029,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.21831512451171875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.012302678629590518,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.24121111631393433,
+      0.16290295124053955,
+      0.9196783900260925
+    ],
+    "gyro_data": [
+      5.959009647369385,
+      -0.05233760178089142,
+      -1.525267243385315
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.2786505,
+    "local_time": "2025-11-26T16:41:48.389483",
+    "band_powers": {
+      "delta": 71.5634124371061,
+      "theta": 18.774408751206412,
+      "alpha": 3.9871145159042434,
+      "beta": 3.345786288329541,
+      "gamma": 2.329278007453721
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.59058253707455,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.21221160888671875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.3255212,
+    "local_time": "2025-11-26T16:41:48.408816",
+    "band_powers": {
+      "delta": 70.7305948138538,
+      "theta": 18.02993622833228,
+      "alpha": 4.483523024140751,
+      "beta": 3.9249905101544544,
+      "gamma": 2.830955423518719
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.74699742125055,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.21755218505859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.017526646185871075,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.17803968489170074,
+      0.16967785358428955,
+      0.9740607738494873
+    ],
+    "gyro_data": [
+      -0.37384000420570374,
+      5.241236686706543,
+      7.013238430023193
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.3723915,
+    "local_time": "2025-11-26T16:41:48.455342",
+    "band_powers": {
+      "delta": 69.80302916508448,
+      "theta": 17.300865039936905,
+      "alpha": 4.956456237678056,
+      "beta": 4.533793417006941,
+      "gamma": 3.405856140293625
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.81683562900722,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.225067138671875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.011651109584116947,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": [
+      -0.17944319546222687,
+      2.392575979232788,
+      5.308527946472168
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.4192605,
+    "local_time": "2025-11-26T16:41:48.511816",
+    "band_powers": {
+      "delta": 68.58549475766924,
+      "theta": 16.67270286585417,
+      "alpha": 5.42010423528684,
+      "beta": 5.223111132920621,
+      "gamma": 4.098587008269133
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.68094052587692,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.23761749267578125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.4661303,
+    "local_time": "2025-11-26T16:41:48.555523",
+    "band_powers": {
+      "delta": 67.18186255081979,
+      "theta": 16.174383125567292,
+      "alpha": 5.820223323527033,
+      "beta": 5.957225899995744,
+      "gamma": 4.86630510009015
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.87322543137154,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.23654937744140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.013243597404864698,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.10546882450580597,
+      0.16680920124053955,
+      0.9989020824432373
+    ],
+    "gyro_data": [
+      2.153318405151367,
+      3.297268867492676,
+      5.323481559753418
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.5130038,
+    "local_time": "2025-11-26T16:41:48.604215",
+    "band_powers": {
+      "delta": 65.98892031905999,
+      "theta": 15.830624493134733,
+      "alpha": 6.0782641376436795,
+      "beta": 6.576390784148306,
+      "gamma": 5.5258002660133
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.0924288565107,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.238494873046875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.020115371613762402,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.16888439655303955,
+      0.16705334186553955,
+      0.9896857738494873
+    ],
+    "gyro_data": [
+      8.785240173339844,
+      0.598143994808197,
+      -4.859920024871826
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.5598772,
+    "local_time": "2025-11-26T16:41:48.658155",
+    "band_powers": {
+      "delta": 64.51144154134228,
+      "theta": 15.620701179425394,
+      "alpha": 6.317374122384878,
+      "beta": 7.275155142372629,
+      "gamma": 6.275328014474815
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.1164906180572,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.235137939453125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.016830035976674443,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.21081557869911194,
+      0.12622079253196716,
+      0.9940192699432373
+    ],
+    "gyro_data": [
+      5.929102420806885,
+      -1.0168447494506836,
+      -5.884241580963135
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.6067488,
+    "local_time": "2025-11-26T16:41:48.688032",
+    "band_powers": {
+      "delta": 62.720866634877936,
+      "theta": 15.595244369051555,
+      "alpha": 6.566378949698906,
+      "beta": 8.031520177493825,
+      "gamma": 7.085989868877771
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.85231780075145,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2365875244140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.010403246697556458,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.22949235141277313,
+      0.11749275773763657,
+      0.9925544261932373
+    ],
+    "gyro_data": [
+      4.964595317840576,
+      1.435545563697815,
+      0.590667188167572
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.6536205,
+    "local_time": "2025-11-26T16:41:48.740830",
+    "band_powers": {
+      "delta": 60.823884322570414,
+      "theta": 15.678907283984456,
+      "alpha": 6.841109344480273,
+      "beta": 8.777468917987209,
+      "gamma": 7.878630130977647
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.05183874225386,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.23677825927734375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.7004912,
+    "local_time": "2025-11-26T16:41:48.803238",
+    "band_powers": {
+      "delta": 58.81377455415869,
+      "theta": 15.829507000755848,
+      "alpha": 7.169456898186554,
+      "beta": 9.527337760008823,
+      "gamma": 8.659923786890083
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.84431191067844,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24684906005859375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.747362,
+    "local_time": "2025-11-26T16:41:48.826496",
+    "band_powers": {
+      "delta": 56.75432078017885,
+      "theta": 15.88781384494342,
+      "alpha": 7.566762656543853,
+      "beta": 10.323193003388829,
+      "gamma": 9.467909714945057
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.73364725006104,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25096893310546875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.016198255846757083,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.20025649666786194,
+      0.13000497221946716,
+      0.9571540355682373
+    ],
+    "gyro_data": [
+      0.7626336216926575,
+      2.340238332748413,
+      7.716057777404785
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.794237,
+    "local_time": "2025-11-26T16:41:48.894607",
+    "band_powers": {
+      "delta": 54.66562196066868,
+      "theta": 15.796989692800441,
+      "alpha": 8.033819702946666,
+      "beta": 11.181813918102888,
+      "gamma": 10.321754725481334
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.88292185427571,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24082183837890625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.07006131140391036,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.23559586703777313,
+      0.10119636356830597,
+      0.9613654613494873
+    ],
+    "gyro_data": [
+      -7.536614418029785,
+      3.8804593086242676,
+      33.989532470703125
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.8411112,
+    "local_time": "2025-11-26T16:41:48.942545",
+    "band_powers": {
+      "delta": 52.54755237781458,
+      "theta": 15.796054019892258,
+      "alpha": 8.512942583387012,
+      "beta": 12.006477174816284,
+      "gamma": 11.136973844089878
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.09581757122989,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.25554656982421875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.1059866989332371,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.3244631290435791,
+      0.08874518424272537,
+      0.9425055384635925
+    ],
+    "gyro_data": [
+      -13.585345268249512,
+      4.695430278778076,
+      51.00672912597656
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.8879848,
+    "local_time": "2025-11-26T16:41:48.972892",
+    "band_powers": {
+      "delta": 50.61716294752725,
+      "theta": 15.682027217340844,
+      "alpha": 8.982373789448454,
+      "beta": 12.787030213488261,
+      "gamma": 11.931405832195207
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.35696913477419,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.5343330736662769,
+    "forehead_emg": 0.34053802490234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.191235879752653,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.4113162159919739,
+      0.10070808231830597,
+      0.9152228236198425
+    ],
+    "gyro_data": [
+      -27.2828426361084,
+      1.158903956413269,
+      91.63565826416016
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.9348576,
+    "local_time": "2025-11-26T16:41:49.031285",
+    "band_powers": {
+      "delta": 48.673380996979105,
+      "theta": 15.569147930946075,
+      "alpha": 9.454143995746803,
+      "beta": 13.547634425752547,
+      "gamma": 12.755692650575474
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.56340270010487,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.24837977433160155,
+    "forehead_emg": 0.43365478515625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171708.9817297,
+    "local_time": "2025-11-26T16:41:49.063192",
+    "band_powers": {
+      "delta": 46.88136340599242,
+      "theta": 15.754844268164678,
+      "alpha": 9.817337925348147,
+      "beta": 14.118112645717831,
+      "gamma": 13.42834175477692
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.50276136396533,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.14169407748455795,
+    "forehead_emg": 0.5488967895507812,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.28096558210365685,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.12927255034446716,
+      0.2752687633037567,
+      1.0480353832244873
+    ],
+    "gyro_data": [
+      -41.53362274169922,
+      0.6654351949691772,
+      134.20108032226562
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.0286016,
+    "local_time": "2025-11-26T16:41:49.121574",
+    "band_powers": {
+      "delta": 45.529052365175566,
+      "theta": 16.22391814955794,
+      "alpha": 10.008364908731213,
+      "beta": 14.423676089033501,
+      "gamma": 13.814988487501772
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.67429636052934,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.080836530647003,
+    "forehead_emg": 0.6188201904296875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.2081265553602204,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.011779793538153172,
+      0.3234255313873291,
+      0.9721076488494873
+    ],
+    "gyro_data": [
+      -32.568939208984375,
+      8.321678161621094,
+      98.48441314697266
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.0754776,
+    "local_time": "2025-11-26T16:41:49.178806",
+    "band_powers": {
+      "delta": 44.12737915145403,
+      "theta": 17.08901055581858,
+      "alpha": 10.121543087541506,
+      "beta": 14.61018519667481,
+      "gamma": 14.05188200851108
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.75968639965205,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.05430134046286301,
+    "forehead_emg": 0.6270599365234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0843673395670683,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.12304696440696716,
+      0.2810671031475067,
+      1.0509040355682373
+    ],
+    "gyro_data": [
+      -14.123675346374512,
+      8.127281188964844,
+      38.90926742553711
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.1223478,
+    "local_time": "2025-11-26T16:41:49.198082",
+    "band_powers": {
+      "delta": 42.89184787967317,
+      "theta": 18.032746044040714,
+      "alpha": 10.182539719596509,
+      "beta": 14.71710322246262,
+      "gamma": 14.175763134226987
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.71306091243265,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.04477555314601826,
+    "forehead_emg": 0.5440521240234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.05934953608089354,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.15850841999053955,
+      0.2617799639701843,
+      1.0454108715057373
+    ],
+    "gyro_data": [
+      -7.312310218811035,
+      7.992699146270752,
+      27.62677574157715
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.169217,
+    "local_time": "2025-11-26T16:41:49.265343",
+    "band_powers": {
+      "delta": 41.79443796284442,
+      "theta": 18.962737361717004,
+      "alpha": 10.219056918341598,
+      "beta": 14.783997517009093,
+      "gamma": 14.239770240087886
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.67172389816034,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.043314194540450254,
+    "forehead_emg": 0.4463958740234375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.2160869,
+    "local_time": "2025-11-26T16:41:49.312267",
+    "band_powers": {
+      "delta": 40.82835127675263,
+      "theta": 19.836868958046352,
+      "alpha": 10.242671678209929,
+      "beta": 14.824377158273046,
+      "gamma": 14.267730928718047
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.62492369652736,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.04518773216219845,
+    "forehead_emg": 0.3180694580078125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.06750420798172535,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.07080083340406418,
+      0.22552506625652313,
+      0.9865119457244873
+    ],
+    "gyro_data": [
+      5.368342399597168,
+      6.198266983032227,
+      -32.74090576171875
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.26296,
+    "local_time": "2025-11-26T16:41:49.357280",
+    "band_powers": {
+      "delta": 39.99443989491002,
+      "theta": 20.643148414730057,
+      "alpha": 10.256777828682297,
+      "beta": 14.837836964386081,
+      "gamma": 14.267796897291527
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.83145661181013,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.047273349775117525,
+    "forehead_emg": 0.2213287353515625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.10613847824711352,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.03582766279578209,
+      0.22381608188152313,
+      0.9777839183807373
+    ],
+    "gyro_data": [
+      10.714254379272461,
+      2.280424118041992,
+      -51.92637634277344
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.3098328,
+    "local_time": "2025-11-26T16:41:49.405792",
+    "band_powers": {
+      "delta": 39.212394947356024,
+      "theta": 21.450821452891276,
+      "alpha": 10.263060331090054,
+      "beta": 14.825359146704095,
+      "gamma": 14.248364121958554
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.89095423512545,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.042836087606671194,
+    "forehead_emg": 0.23273468017578125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.3567045,
+    "local_time": "2025-11-26T16:41:49.435492",
+    "band_powers": {
+      "delta": 38.701648532736776,
+      "theta": 22.099516751093574,
+      "alpha": 10.24347746800043,
+      "beta": 14.75792046757385,
+      "gamma": 14.197436780595364
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.98155208747025,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.06079790820788903,
+    "forehead_emg": 0.344390869140625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.29401401001933697,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.14746104180812836,
+      0.2783205211162567,
+      1.0153205394744873
+    ],
+    "gyro_data": [
+      37.89242172241211,
+      3.9552271366119385,
+      -141.98443603515625
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.4035761,
+    "local_time": "2025-11-26T16:41:49.492716",
+    "band_powers": {
+      "delta": 38.083843021999094,
+      "theta": 22.781595117488816,
+      "alpha": 10.234533949532333,
+      "beta": 14.725278128742469,
+      "gamma": 14.174749782237289
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.80662942115036,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.0964179818759706,
+    "forehead_emg": 0.495758056640625,
+    "blink_intensity": 0.5384114583333334,
+    "movement_intensity": 0.3283553279639453,
+    "data_quality": 1.0,
+    "has_artifact": false,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2640382647514343,
+      0.23431412875652313,
+      1.0200202465057373
+    ],
+    "gyro_data": [
+      33.772705078125,
+      14.662004470825195,
+      -159.9960479736328
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.4504468,
+    "local_time": "2025-11-26T16:41:49.535768",
+    "band_powers": {
+      "delta": 37.710172578018195,
+      "theta": 23.31017401045369,
+      "alpha": 10.190610473638168,
+      "beta": 14.654246570949622,
+      "gamma": 14.134796366940314
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.60801567752932,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.06440987558203898,
+    "forehead_emg": 0.6175994873046875,
+    "blink_intensity": 0.5384114583333334,
+    "movement_intensity": 0.263091363042148,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2648317217826843,
+      0.22332780063152313,
+      0.9579474925994873
+    ],
+    "gyro_data": [
+      29.525882720947266,
+      7.820732593536377,
+      -127.95047760009766
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.4973173,
+    "local_time": "2025-11-26T16:41:49.581913",
+    "band_powers": {
+      "delta": 38.67823012981178,
+      "theta": 23.174700072581008,
+      "alpha": 9.887291018127629,
+      "beta": 14.305718382333872,
+      "gamma": 13.954060397145717
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.61861481442871,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.04158421107589478,
+    "forehead_emg": 0.648956298828125,
+    "blink_intensity": 0.5384114583333334,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.5441864,
+    "local_time": "2025-11-26T16:41:49.639990",
+    "band_powers": {
+      "delta": 40.08992723351466,
+      "theta": 22.86399959083857,
+      "alpha": 9.449530729074796,
+      "beta": 13.87726711369434,
+      "gamma": 13.719275332877636
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.43387550892164,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.03199418586092821,
+    "forehead_emg": 0.6499481201171875,
+    "blink_intensity": 0.5384114583333334,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.5910606,
+    "local_time": "2025-11-26T16:41:49.685527",
+    "band_powers": {
+      "delta": 41.39793807207393,
+      "theta": 22.649428489724354,
+      "alpha": 9.000484427951761,
+      "beta": 13.478266756899165,
+      "gamma": 13.4738822533508
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.1920882892901,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.029262859579679477,
+    "forehead_emg": 0.57708740234375,
+    "blink_intensity": 0.5384114583333334,
+    "movement_intensity": 0.07500702111723422,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.09869391471147537,
+      0.13830576837062836,
+      0.9964606761932373
+    ],
+    "gyro_data": [
+      1.7645248174667358,
+      11.60399341583252,
+      -35.619476318359375
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.6379342,
+    "local_time": "2025-11-26T16:41:49.726757",
+    "band_powers": {
+      "delta": 43.03726656059844,
+      "theta": 22.39796002405778,
+      "alpha": 8.433433922895151,
+      "beta": 12.996358036924926,
+      "gamma": 13.134981455523716
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.88205112237844,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.033165867253157795,
+    "forehead_emg": 0.4278564453125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.04681410277676378,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08886725455522537,
+      0.13220223784446716,
+      0.9913337230682373
+    ],
+    "gyro_data": [
+      5.039363384246826,
+      11.31987476348877,
+      -19.858381271362305
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.684807,
+    "local_time": "2025-11-26T16:41:49.773490",
+    "band_powers": {
+      "delta": 44.86010824055525,
+      "theta": 22.224201573318553,
+      "alpha": 7.787277272098451,
+      "beta": 12.439786439636142,
+      "gamma": 12.688626474391613
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.76980784822909,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.04828335315799604,
+    "forehead_emg": 0.31002044677734375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.03677821137556738,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08203130960464478,
+      0.13342294096946716,
+      0.9821784496307373
+    ],
+    "gyro_data": [
+      3.9178431034088135,
+      10.071249961853027,
+      -14.87883186340332
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.7316787,
+    "local_time": "2025-11-26T16:41:49.821366",
+    "band_powers": {
+      "delta": 46.57751343277995,
+      "theta": 22.247471862294606,
+      "alpha": 7.157224481852014,
+      "beta": 11.855033816529733,
+      "gamma": 12.162756406543698
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.60118242943956,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.08177498602378325,
+    "forehead_emg": 0.26782989501953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.7785506,
+    "local_time": "2025-11-26T16:41:49.866767",
+    "band_powers": {
+      "delta": 48.17468182000659,
+      "theta": 22.434674954355604,
+      "alpha": 6.581272431554828,
+      "beta": 11.245004987970512,
+      "gamma": 11.564365806112482
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.52497311661259,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.19365363882669806,
+    "forehead_emg": 0.26218414306640625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.010991943530963779,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.07373052090406418,
+      0.11071785539388657,
+      1.0368659496307373
+    ],
+    "gyro_data": [
+      1.3607776165008545,
+      5.248713493347168,
+      -0.8972160220146179
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.8254213,
+    "local_time": "2025-11-26T16:41:49.909936",
+    "band_powers": {
+      "delta": 49.89079131396376,
+      "theta": 22.66651818854482,
+      "alpha": 6.039753010401765,
+      "beta": 10.555197218547221,
+      "gamma": 10.847740268542434
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.5586717376533,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.41824766654576473,
+    "forehead_emg": 0.25318145751953125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.009089304164087113,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.03741457685828209,
+      0.12152108550071716,
+      1.0060431957244873
+    ],
+    "gyro_data": [
+      -2.056119918823242,
+      3.9327967166900635,
+      0.9794607758522034
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.8722923,
+    "local_time": "2025-11-26T16:41:49.956523",
+    "band_powers": {
+      "delta": 51.63607277485011,
+      "theta": 22.90377402885725,
+      "alpha": 5.585165506796283,
+      "beta": 9.818882967113655,
+      "gamma": 10.056104722382713
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.40779264939515,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.4266389315547146,
+    "forehead_emg": 0.258636474609375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.008465190483498907,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.04339602589607239,
+      0.11096199601888657,
+      1.0210578441619873
+    ],
+    "gyro_data": [
+      -1.9140608310699463,
+      3.6860623359680176,
+      0.8149712085723877
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.919167,
+    "local_time": "2025-11-26T16:41:50.012913",
+    "band_powers": {
+      "delta": 52.767340804317534,
+      "theta": 23.34243308705535,
+      "alpha": 5.3092628443894805,
+      "beta": 9.201711721931279,
+      "gamma": 9.379251542306358
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.38636882642562,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.5511363831586567,
+    "forehead_emg": 0.2542877197265625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.009437522279715569,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.008850104175508022,
+      0.11431892961263657,
+      1.0059211254119873
+    ],
+    "gyro_data": [
+      -0.13458240032196045,
+      4.710383892059326,
+      -0.2467343956232071
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171709.9660413,
+    "local_time": "2025-11-26T16:41:50.058082",
+    "band_powers": {
+      "delta": 54.16607476182746,
+      "theta": 23.666756746854723,
+      "alpha": 5.06104257416808,
+      "beta": 8.49762477056514,
+      "gamma": 8.608501146584599
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.27097227666333,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.9069913784318395,
+    "forehead_emg": 0.2587890625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.0129144,
+    "local_time": "2025-11-26T16:41:50.103148",
+    "band_powers": {
+      "delta": 55.91251934502761,
+      "theta": 23.774714790993063,
+      "alpha": 4.809188668489913,
+      "beta": 7.728264879876737,
+      "gamma": 7.775312315612682
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.4700037712186,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.27751922607421875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.012927428756824772,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.016845714300870895,
+      0.12982186675071716,
+      0.9993293285369873
+    ],
+    "gyro_data": [
+      -4.015041828155518,
+      2.542112112045288,
+      -4.381404876708984
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.0597873,
+    "local_time": "2025-11-26T16:41:50.162924",
+    "band_powers": {
+      "delta": 57.75491413110528,
+      "theta": 23.76977395649708,
+      "alpha": 4.535650040277982,
+      "beta": 6.971264493497352,
+      "gamma": 6.968397378622311
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.161712070349,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.27008056640625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.037012881271145034,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.08514410257339478,
+      0.15228281915187836,
+      0.9576423168182373
+    ],
+    "gyro_data": [
+      -5.607600212097168,
+      -5.271143913269043,
+      -16.830276489257812
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.10666,
+    "local_time": "2025-11-26T16:41:50.193167",
+    "band_powers": {
+      "delta": 59.7140223869655,
+      "theta": 23.65028845001291,
+      "alpha": 4.213084070326864,
+      "beta": 6.229776285061016,
+      "gamma": 6.192828807633704
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.14832367663773,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26363372802734375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.04807688232466316,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.13720713555812836,
+      0.14978037774562836,
+      0.9403082728385925
+    ],
+    "gyro_data": [
+      -4.261775970458984,
+      -10.183402061462402,
+      -21.353740692138672
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.1535318,
+    "local_time": "2025-11-26T16:41:50.236429",
+    "band_powers": {
+      "delta": 61.84621226997823,
+      "theta": 23.434351031187187,
+      "alpha": 3.8268662827030537,
+      "beta": 5.477710022064493,
+      "gamma": 5.4148603940670315
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.05498746477403,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24379730224609375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.08064800840198248,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2750246226787567,
+      0.16699230670928955,
+      0.8698126077651978
+    ],
+    "gyro_data": [
+      -3.185116767883301,
+      -31.529664993286133,
+      -24.93512725830078
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.2004023,
+    "local_time": "2025-11-26T16:41:50.280219",
+    "band_powers": {
+      "delta": 64.21754854289013,
+      "theta": 23.076390947499394,
+      "alpha": 3.380919951552802,
+      "beta": 4.710051539869025,
+      "gamma": 4.615089018188658
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.80782242024227,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.21759033203125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.2472725,
+    "local_time": "2025-11-26T16:41:50.337902",
+    "band_powers": {
+      "delta": 66.60393651853914,
+      "theta": 22.647549535421714,
+      "alpha": 2.9262892980116546,
+      "beta": 3.9748031678333313,
+      "gamma": 3.847421480194142
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.44216391210433,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.1834869384765625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0023014657703372735,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.2515260577201843,
+      0.15966808795928955,
+      0.9843146800994873
+    ],
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.294142,
+    "local_time": "2025-11-26T16:41:50.395546",
+    "band_powers": {
+      "delta": 68.91249482783228,
+      "theta": 22.22775442181662,
+      "alpha": 2.480985568929296,
+      "beta": 3.282312360569161,
+      "gamma": 3.09645282085264
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.22101879855443,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.1674652099609375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0023859846211796596,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.09509284049272537,
+      0.16021740436553955,
+      0.9596564769744873
+    ],
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.341022,
+    "local_time": "2025-11-26T16:41:50.467159",
+    "band_powers": {
+      "delta": 70.73268980165275,
+      "theta": 21.82528791140543,
+      "alpha": 2.158206979507902,
+      "beta": 2.847344942472929,
+      "gamma": 2.436470364960988
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.34057095168775,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.15529632568359375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.3878956,
+    "local_time": "2025-11-26T16:41:50.487454",
+    "band_powers": {
+      "delta": 71.51685575333333,
+      "theta": 21.325509882325385,
+      "alpha": 2.1362624311908838,
+      "beta": 2.918028541113414,
+      "gamma": 2.1033433920370075
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.64215137712891,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.9959936179829941,
+    "forehead_emg": 0.1499176025390625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.033932357114106124,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      -0.03839113935828209,
+      0.14788828790187836,
+      1.0010993480682373
+    ],
+    "gyro_data": [
+      5.674890995025635,
+      15.813431739807129,
+      2.362668752670288
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.4347684,
+    "local_time": "2025-11-26T16:41:50.518667",
+    "band_powers": {
+      "delta": 71.79385206846949,
+      "theta": 20.601588538243153,
+      "alpha": 2.29621765937617,
+      "beta": 3.2333046639402427,
+      "gamma": 2.075037069970959
+    },
+    "brain_state": "meditative",
+    "signal_quality": 64.85120222811275,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.848038388442291,
+    "forehead_emg": 0.16483306884765625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.032188550693342914,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.016906751319766045,
+      0.13122567534446716,
+      1.0314338207244873
+    ],
+    "gyro_data": [
+      4.762721538543701,
+      15.155473709106445,
+      2.579495906829834
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.48164,
+    "local_time": "2025-11-26T16:41:50.562341",
+    "band_powers": {
+      "delta": 71.73483392961529,
+      "theta": 19.625009380609878,
+      "alpha": 2.592853169308378,
+      "beta": 3.7494532812525647,
+      "gamma": 2.297850239213878
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.15062395582463,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 0.8776535431243397,
+    "forehead_emg": 0.18310546875,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.028805113542545634,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.018920911476016045,
+      0.12634286284446716,
+      0.9639289379119873
+    ],
+    "gyro_data": [
+      5.630030632019043,
+      13.047016143798828,
+      2.347715139389038
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.528512,
+    "local_time": "2025-11-26T16:41:50.621615",
+    "band_powers": {
+      "delta": 71.38378695595513,
+      "theta": 18.6721836503459,
+      "alpha": 2.922359777364437,
+      "beta": 4.326388057341825,
+      "gamma": 2.6952815589927024
+    },
+    "brain_state": "meditative",
+    "signal_quality": 65.63675387903234,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.21060943603515625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.022754633540372514,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.05468754097819328,
+      0.15307627618312836,
+      1.0058600902557373
+    ],
+    "gyro_data": [
+      3.252408027648926,
+      10.901174545288086,
+      0.17196640372276306
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.5753822,
+    "local_time": "2025-11-26T16:41:50.652134",
+    "band_powers": {
+      "delta": 71.06944887333023,
+      "theta": 17.780653861494727,
+      "alpha": 3.183401873509387,
+      "beta": 4.825809600382616,
+      "gamma": 3.1406857912830333
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.21854201874129,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.22998809814453125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.024368261908830065,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": [
+      3.08044171333313,
+      11.75352954864502,
+      0.9046928286552429
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.622253,
+    "local_time": "2025-11-26T16:41:50.706502",
+    "band_powers": {
+      "delta": 70.40519958132697,
+      "theta": 17.07284463072887,
+      "alpha": 3.42602357479139,
+      "beta": 5.3690440023214405,
+      "gamma": 3.726888210831328
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.4651826310418,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.24806976318359375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.6691217,
+    "local_time": "2025-11-26T16:41:50.756949",
+    "band_powers": {
+      "delta": 69.72753594893362,
+      "theta": 16.445320089022296,
+      "alpha": 3.609453235488556,
+      "beta": 5.873083928394656,
+      "gamma": 4.344606798160866
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.31491398848304,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26477813720703125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.7159908,
+    "local_time": "2025-11-26T16:41:50.819108",
+    "band_powers": {
+      "delta": 68.90896358117408,
+      "theta": 15.85753258445813,
+      "alpha": 3.777984864052631,
+      "beta": 6.411646952505957,
+      "gamma": 5.043872017809194
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.33438638834022,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26508331298828125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.7628646,
+    "local_time": "2025-11-26T16:41:50.849640",
+    "band_powers": {
+      "delta": 68.20345259433898,
+      "theta": 15.284205924566376,
+      "alpha": 3.9273303323085247,
+      "beta": 6.900832440680451,
+      "gamma": 5.684178708105659
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.47081182193044,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26844024658203125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.018708411219561457,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.16101086139678955,
+      0.10711677372455597,
+      1.0410773754119873
+    ],
+    "gyro_data": [
+      4.463649749755859,
+      8.074943542480469,
+      1.540220856666565
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.809738,
+    "local_time": "2025-11-26T16:41:50.910783",
+    "band_powers": {
+      "delta": 67.45983374864733,
+      "theta": 14.750223671338292,
+      "alpha": 4.0941798762182655,
+      "beta": 7.389011524805287,
+      "gamma": 6.306751178990817
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.52862672620122,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.2693939208984375,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.01627275998847067,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.15393076837062836,
+      0.09033209830522537,
+      1.0601203441619873
+    ],
+    "gyro_data": [
+      4.097286224365234,
+      6.474908828735352,
+      2.736508846282959
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.8566096,
+    "local_time": "2025-11-26T16:41:50.940400",
+    "band_powers": {
+      "delta": 66.70989999908137,
+      "theta": 14.230094346524586,
+      "alpha": 4.287469954422821,
+      "beta": 7.870175132093761,
+      "gamma": 6.9023605678774524
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.53468978874642,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.27149200439453125,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.012072751973533087,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": [
+      0.12255868315696716,
+      0.07958990335464478,
+      1.0274055004119873
+    ],
+    "gyro_data": [
+      4.456172943115234,
+      3.267361640930176,
+      2.429960012435913
+    ],
+    "is_talking": true
+  },
+  {
+    "timestamp": 1764171710.9034812,
+    "local_time": "2025-11-26T16:41:51.014311",
+    "band_powers": {
+      "delta": 65.65852915699914,
+      "theta": 13.77582151017713,
+      "alpha": 4.553954150523806,
+      "beta": 8.432385100927924,
+      "gamma": 7.579310081371999
+    },
+    "brain_state": "meditative",
+    "signal_quality": 66.77619951777831,
+    "heart_rate": 59.26298244234147,
+    "hrv_rmssd": 0.0,
+    "emg_intensity": 1.0,
+    "forehead_emg": 0.26920318603515625,
+    "blink_intensity": 0.0,
+    "movement_intensity": 0.0,
+    "data_quality": 1.0,
+    "has_artifact": true,
+    "artifact_type": "clean",
+    "acc_data": null,
+    "gyro_data": null,
+    "is_talking": true
+  }
+]

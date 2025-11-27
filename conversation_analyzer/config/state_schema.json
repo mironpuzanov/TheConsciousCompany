@@ -1,0 +1,19 @@
+{
+  "fields": [
+    {"name": "arousal", "range": [-1.0, 1.0]},
+    {"name": "valence", "range": [-1.0, 1.0]},
+    {"name": "stress", "range": [0.0, 1.0]},
+    {"name": "cognitive_load", "range": [0.0, 1.0]},
+    {"name": "motivation", "range": [0.0, 1.0]},
+    {"name": "regulation_capacity", "range": [0.0, 1.0]},
+    {"name": "avoidance", "range": [0.0, 1.0]},
+    {"name": "self_criticism", "range": [0.0, 1.0]},
+    {"name": "confidence", "range": [0.0, 1.0]}
+  ],
+  "metadata": {
+    "sampling_interval": "per_turn",
+    "smoothing": "ema",
+    "decay": 0.85
+  }
+}
+

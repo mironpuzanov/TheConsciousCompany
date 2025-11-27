@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": 1764171705.406621,
+    "local_time": "2025-11-26T16:41:45.406623",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1764171705.457285,
+    "local_time": "2025-11-26T16:41:45.457288",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.9609625466324347,
+      "duration": 297.54049348831177
+    }
+  },
+  {
+    "timestamp": 1764171711.014922,
+    "local_time": "2025-11-26T16:41:51.014923",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 5.6s",
+    "data": null
+  }
+]

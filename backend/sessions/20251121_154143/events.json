@@ -1,0 +1,54 @@
+[
+  {
+    "timestamp": 1763736103.456143,
+    "local_time": "2025-11-21T15:41:43.456145",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1763736107.12916,
+    "local_time": "2025-11-21T15:41:47.129165",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.6850687772933974,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763736116.258848,
+    "local_time": "2025-11-21T15:41:56.258855",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 9.139869451522827
+    }
+  },
+  {
+    "timestamp": 1763736179.48744,
+    "local_time": "2025-11-21T15:42:59.487443",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.750653815309483,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763736239.327762,
+    "local_time": "2025-11-21T15:43:59.327767",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 59.8610143661499
+    }
+  },
+  {
+    "timestamp": 1763736240.486948,
+    "local_time": "2025-11-21T15:44:00.486950",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 137.0s",
+    "data": null
+  }
+]

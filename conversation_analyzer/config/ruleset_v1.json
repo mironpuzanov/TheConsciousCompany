@@ -1,0 +1,35 @@
+[
+  {
+    "id": "rule_avoidance_detected",
+    "version": 1,
+    "description": "Avoidance patterns detected in conversation",
+    "conditions": ["state.avoidance>0.001"],
+    "action": "flag_avoidance",
+    "telemetry_key": "avoidance_detected"
+  },
+  {
+    "id": "rule_stress_elevated",
+    "version": 1,
+    "description": "Elevated stress levels detected",
+    "conditions": ["state.stress>0.01"],
+    "action": "flag_stress",
+    "telemetry_key": "stress_elevated"
+  },
+  {
+    "id": "rule_self_criticism",
+    "version": 1,
+    "description": "Self-criticism patterns detected",
+    "conditions": ["state.self_criticism>0.001"],
+    "action": "flag_self_criticism",
+    "telemetry_key": "self_criticism_detected"
+  },
+  {
+    "id": "rule_stress_denial",
+    "version": 1,
+    "description": "High stress but positive language (possible denial)",
+    "conditions": ["state.stress>0.01", "emotion.joy>0.3"],
+    "action": "flag_contradiction",
+    "telemetry_key": "stress_denial"
+  }
+]
+

@@ -1,0 +1,22 @@
+{
+  "session_id": "20251121_192907",
+  "start_time": "2025-11-21T19:29:07.832921",
+  "end_time": "2025-11-21T19:50:59.770158",
+  "duration_seconds": 1311.937237,
+  "device_name": "Muse 2",
+  "sample_rate": 256,
+  "channels": [
+    "TP9",
+    "AF7",
+    "AF8",
+    "TP10"
+  ],
+  "notes": "Excellent session with good electrode contact. Gamma band at 26.9% (much better than Session 1). Data quality 0.93. Deep relaxation with 44 bpm avg HR.",
+  "tags": [
+    "good-quality",
+    "relaxed",
+    "low-gamma",
+    "reference-session"
+  ],
+  "name": "Good TP9 Contact - Relaxed State"
+}

@@ -1,0 +1,22 @@
+# AI Co-Pilot Dependencies
+# Install with: pip install -r requirements_copilot.txt
+
+# Audio recording
+pyaudio>=0.2.13
+soundfile>=0.12.1
+
+# Whisper transcription
+faster-whisper>=0.10.0
+
+# OpenAI GPT-5
+openai>=1.0.0
+
+# NLP models (required by conversation_analyzer)
+spacy>=3.0.0
+
+# Already installed (from main requirements.txt)
+# numpy
+# torch
+# transformers
+# sentence-transformers
+# python-dotenv

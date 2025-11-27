@@ -1,0 +1,16 @@
+{
+  "session_id": "20251121_173547",
+  "start_time": "2025-11-21T17:35:47.953683",
+  "end_time": "2025-11-21T17:36:46.971868",
+  "duration_seconds": 59.018185,
+  "device_name": "Muse 2",
+  "sample_rate": 256,
+  "channels": [
+    "TP9",
+    "AF7",
+    "AF8",
+    "TP10"
+  ],
+  "notes": "",
+  "tags": []
+}

@@ -1,0 +1,141 @@
+
+================================================================================
+CONSCIOUSNESS OS - SESSION BRAIN DATA ANALYSIS
+================================================================================
+
+SESSION: Unnamed Session
+ID: 20251126_164145
+Date: November 26, 2025 at 04:41 PM
+Duration: 0.1 minutes
+Samples: 120 samples
+
+================================================================================
+1. BRAIN STATE ANALYSIS
+================================================================================
+
+Dominant State: meditative
+
+State Distribution:
+  • artifact_detected: 34 samples (28.3%)
+  • meditative: 86 samples (71.7%)
+
+State Transitions: 1 transitions
+Average Duration per State:
+  • artifact_detected: 34.0 seconds
+
+================================================================================
+2. BRAIN WAVE BAND ANALYSIS
+================================================================================
+
+Frequency Balance: Deep relaxation or drowsiness - high slow-wave activity
+
+Dominant Frequencies (highest to lowest):
+  DELTA   :  52.9%
+  THETA   :  21.1%
+  BETA    :  10.6%
+  GAMMA   :   9.0%
+  ALPHA   :   6.5%
+
+Detailed Band Statistics:
+
+DELTA (1-4 Hz) - Deep Sleep / Unconscious:
+  Mean: 52.9%
+  Range: 27.2% - 72.5%
+
+THETA (4-8 Hz) - Meditation / Creativity:
+  Mean: 21.1%
+  Range: 13.8% - 30.5%
+
+ALPHA (8-13 Hz) - Relaxed Awareness:
+  Mean: 6.5%
+  Range: 2.1% - 11.0%
+
+BETA (13-30 Hz) - Active Thinking:
+  Mean: 10.6%
+  Range: 1.4% - 19.7%
+
+GAMMA (30-100 Hz) - High-level Processing / Artifacts:
+  Mean: 9.0%
+  Range: 1.1% - 15.4%
+
+================================================================================
+3. COGNITIVE LOAD & MENTAL EFFORT
+================================================================================
+
+Average Cognitive Load: 0.19 (0-1 scale)
+Peak Cognitive Load: 0.40
+
+Cognitive Load Distribution:
+  • Low Load (<30%): 92.5% of session
+  • High Load (>70%): 0.0% of session
+
+================================================================================
+4. STRESS & TENSION INDICATORS
+================================================================================
+
+Average Stress Score: 0.26 (0-1 scale)
+Muscle Tension (EMG): 0.61
+Mental Tension (Forehead): 0.27
+
+Period Distribution:
+  • Stressed Periods (>70%): 0 samples
+  • Relaxed Periods (<30%): 60 samples
+
+Heart Rate:
+  • Average: 59 bpm
+  • Variability: Low
+
+================================================================================
+5. ATTENTION & FOCUS
+================================================================================
+
+Moderate focus - intermittent attention
+
+Focus Score: 0.62 (0-1 scale)
+Peak Focus: 0.66
+Blink Rate: 0.022
+
+Attention Periods:
+  • Focused (>60%): 104 samples
+  • Unfocused (<40%): 0 samples
+
+================================================================================
+6. EMOTIONAL STATE INDICATORS
+================================================================================
+
+Emotional State: Sad/Bored (low arousal, negative valence)
+
+Arousal Level: 0.04
+Valence Estimate: 0.06
+
+Meditation Indicators:
+  • Theta Activity: 21.1%
+  • Alpha Relaxation: 6.5%
+
+================================================================================
+7. TALKING PATTERNS
+================================================================================
+
+Talking Ratio: 100.0%
+Talking Duration: 120 seconds
+Silence Duration: 0 seconds
+
+Episodes: 0 talking episodes
+Average Episode: 0.0 seconds
+Longest Episode: 0 seconds
+
+================================================================================
+8. KEY INSIGHTS & RECOMMENDATIONS
+================================================================================
+
+💤 High delta activity - deeply relaxed or drowsy state
+😊 Low stress levels - relaxed state maintained
+🎯 Good focus maintained throughout session
+🗣️  High talking ratio - conversation or presentation
+
+================================================================================
+END OF REPORT
+================================================================================
+
+Generated: 2025-11-26 16:58:25
+Analysis Tool: Consciousness OS Brain Data Analyzer

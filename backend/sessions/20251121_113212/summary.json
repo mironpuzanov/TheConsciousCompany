@@ -1,0 +1,28 @@
+{
+  "duration_seconds": 13.118356,
+  "total_samples": 294,
+  "brain_state_distribution": {
+    "artifact_detected": 294
+  },
+  "dominant_state": "artifact_detected",
+  "average_band_powers": {
+    "delta": 13.51392699290169,
+    "theta": 5.002711880122458,
+    "alpha": 1.9798487697274338,
+    "beta": 1.5954553912645513,
+    "gamma": 77.90805696598386
+  },
+  "signal_quality": {
+    "mean": 66.28509187334448,
+    "min": 63.81377512988743,
+    "max": 67.18536468902482
+  },
+  "artifact_ratio": 1.0,
+  "talking_ratio": 0.0,
+  "heart_rate": {
+    "mean": 0,
+    "min": 0,
+    "max": 0
+  },
+  "events_count": 2
+}

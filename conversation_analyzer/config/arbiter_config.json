@@ -1,0 +1,24 @@
+{
+  "base_weights": {
+    "emotion": 0.35,
+    "stress": 0.2,
+    "psychological_labels": 0.3,
+    "triggers": 0.15
+  },
+  "artifact_penalty": {
+    "mild": 0.8,
+    "moderate": 0.5,
+    "severe": 0.2
+  },
+  "personalization": {
+    "initial_sessions_required": 3,
+    "alpha": 0.7,
+    "fallback_weight": 0.3
+  },
+  "confidence_thresholds": {
+    "high": 0.7,
+    "medium": 0.5,
+    "low": 0.3
+  }
+}
+

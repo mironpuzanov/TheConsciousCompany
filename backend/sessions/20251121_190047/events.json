@@ -1,0 +1,82 @@
+[
+  {
+    "timestamp": 1763748047.973521,
+    "local_time": "2025-11-21T19:00:47.973529",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1763748073.523371,
+    "local_time": "2025-11-21T19:01:13.523377",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 4608.81075501442
+    }
+  },
+  {
+    "timestamp": 1763748085.234359,
+    "local_time": "2025-11-21T19:01:25.234363",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.9010756232183975,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763748125.456177,
+    "local_time": "2025-11-21T19:02:05.456184",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 40.214919328689575
+    }
+  },
+  {
+    "timestamp": 1763748133.88295,
+    "local_time": "2025-11-21T19:02:13.882956",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.825111195018175,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763748154.96278,
+    "local_time": "2025-11-21T19:02:34.962786",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 21.04799199104309
+    }
+  },
+  {
+    "timestamp": 1763748160.989186,
+    "local_time": "2025-11-21T19:02:40.989190",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.6012939450406553,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763748164.81303,
+    "local_time": "2025-11-21T19:02:44.813035",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 3.7969589233398438
+    }
+  },
+  {
+    "timestamp": 1763748169.811298,
+    "local_time": "2025-11-21T19:02:49.811303",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 121.8s",
+    "data": null
+  }
+]

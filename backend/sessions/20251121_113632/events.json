@@ -1,0 +1,111 @@
+[
+  {
+    "timestamp": 1763721392.524059,
+    "local_time": "2025-11-21T11:36:32.524061",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1763721392.561562,
+    "local_time": "2025-11-21T11:36:32.561566",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.7125381950227162,
+      "duration": 243.49726915359497
+    }
+  },
+  {
+    "timestamp": 1763721409.497226,
+    "local_time": "2025-11-21T11:36:49.497231",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 260.4172999858856
+    }
+  },
+  {
+    "timestamp": 1763721422.461534,
+    "local_time": "2025-11-21T11:37:02.461541",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.9118464887801746,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763721431.417792,
+    "local_time": "2025-11-21T11:37:11.417796",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 8.952093362808228
+    }
+  },
+  {
+    "timestamp": 1763721432.087956,
+    "local_time": "2025-11-21T11:37:12.087959",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.8156631267406041,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763721451.096059,
+    "local_time": "2025-11-21T11:37:31.096063",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 19.029067277908325
+    }
+  },
+  {
+    "timestamp": 1763721461.45366,
+    "local_time": "2025-11-21T11:37:41.453666",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.9066091449688713,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763721470.928591,
+    "local_time": "2025-11-21T11:37:50.928595",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 9.467586517333984
+    }
+  },
+  {
+    "timestamp": 1763721476.693406,
+    "local_time": "2025-11-21T11:37:56.693410",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.6357414641742211,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763721477.441631,
+    "local_time": "2025-11-21T11:37:57.441635",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 0.7499110698699951
+    }
+  },
+  {
+    "timestamp": 1763721480.386903,
+    "local_time": "2025-11-21T11:38:00.386904",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 87.9s",
+    "data": null
+  }
+]

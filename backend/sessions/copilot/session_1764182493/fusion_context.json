@@ -1,0 +1,82 @@
+[
+  {
+    "text": "could you analyze my mental state rn",
+    "sentiment": "neutral",
+    "sentiment_score": 0.5,
+    "emotion": "sadness",
+    "emotion_score": 0.5523905754089355,
+    "topics": [
+      "general"
+    ],
+    "is_question": true,
+    "brain_stress": 0.13371470847877528,
+    "cognitive_load": 0.292232108444166,
+    "hr": 65,
+    "arousal": 0.3565653670839052,
+    "beta": 22.304516740674096,
+    "alpha": 8.28452698944845,
+    "theta": 6.827282584857351,
+    "gamma": 35.65653670839052,
+    "delta": 26.92713697662959,
+    "brain_state": "focused",
+    "signal_quality": 69.2457180036866,
+    "emg_intensity": 0.7139292320672841,
+    "incongruence": false,
+    "should_intervene": true,
+    "intervention_reason": null,
+    "timestamp": 1764177720.464121,
+    "word_count": 7,
+    "brain_baseline": {
+      "stress": 0.05967813437306461,
+      "cognitive_load": 0.19364893543466333,
+      "hr": 65.0,
+      "emotion_arousal": 0.3211691697873317,
+      "alpha": 5.989384408020131,
+      "beta": 11.380750468370511,
+      "gamma": 32.116916978733165,
+      "theta": 10.757951643038837,
+      "delta": 39.754996501837354,
+      "emg_intensity": 1.0
+    }
+  },
+  {
+    "text": "how's my mental state",
+    "sentiment": "neutral",
+    "sentiment_score": 0.5,
+    "emotion": "neutral",
+    "emotion_score": 0.4479638636112213,
+    "topics": [
+      "self-criticism"
+    ],
+    "is_question": true,
+    "brain_stress": 0.05519541783762903,
+    "cognitive_load": 0.44935691412828926,
+    "hr": 44,
+    "arousal": 0.8006387430349203,
+    "beta": 9.524150157741735,
+    "alpha": 1.3136982764989662,
+    "theta": 0.643584298812592,
+    "gamma": 80.06387430349203,
+    "delta": 8.45469296345468,
+    "brain_state": "artifact_detected",
+    "signal_quality": 50.90667851107378,
+    "emg_intensity": 1.0,
+    "incongruence": false,
+    "should_intervene": false,
+    "intervention_reason": null,
+    "timestamp": 1764181342.855396,
+    "word_count": 4,
+    "brain_baseline": {
+      "stress": 0.06300327046288984,
+      "cognitive_load": 0.4137689686962515,
+      "hr": 44.0,
+      "emotion_arousal": 0.740822000900006,
+      "alpha": 1.1958423979782795,
+      "beta": 10.332133949493231,
+      "gamma": 74.08220009000061,
+      "theta": 1.348151058455131,
+      "delta": 11.698123012424478,
+      "emg_intensity": 1.0
+    }
+  }
+]

@@ -1,0 +1,47 @@
+text_experts:
+  - id: emotion_distilroberta
+    model: j-hartmann/emotion-english-distilroberta-base
+    task: emotion_classification
+    revision: main
+  - id: emotion_distilbert
+    model: bhadresh-savani/distilbert-base-uncased-emotion
+    task: emotion_classification
+    revision: main
+  - id: twitter_roberta_emotion
+    model: cardiffnlp/twitter-roberta-base-emotion
+    task: emotion_classification
+    revision: main
+  - id: beto_emotion
+    model: finiteautomata/beto-emotion-analysis
+    task: sentiment_stress
+    revision: main
+  - id: hatexplain
+    model: Hate-speech-CNERG/bert-base-uncased-hatexplain
+    task: aggression_detection
+    revision: main
+  - id: zero_shot_psych
+    model: valhalla/distilbart-mnli-12-1
+    task: zero_shot_psychological_labels
+    revision: main
+  - id: ner_triggers
+    model: dslim/bert-base-NER
+    task: trigger_ner
+    revision: main
+embeddings:
+  - id: minilm
+    model: sentence-transformers/all-MiniLM-L6-v2
+    task: embeddings
+  - id: mpnet
+    model: sentence-transformers/all-mpnet-base-v2
+    task: embeddings
+  - id: instructor_xl
+    model: hkunlp/instructor-xl
+    task: embeddings
+summarizers:
+  - id: bart_cnn
+    model: facebook/bart-large-cnn
+    task: summarization
+  - id: t5_base
+    model: t5-base
+    task: summarization
+

@@ -1,0 +1,52 @@
+{
+  "duration_seconds": 42.557971,
+  "total_samples": 871,
+  "brain_state_distribution": {
+    "mixed": 405,
+    "meditative": 412,
+    "returning": 54
+  },
+  "dominant_state": "meditative",
+  "average_band_powers": {
+    "delta": 55.97678736669156,
+    "theta": 14.923863918757371,
+    "alpha": 4.912244243189926,
+    "beta": 8.04269809939763,
+    "gamma": 16.144406371963452
+  },
+  "signal_quality": {
+    "mean": 59.08397091010396,
+    "min": 48.64412790834333,
+    "max": 67.83355889808168
+  },
+  "artifact_features": {
+    "emg_intensity": {
+      "mean": 0.6206589561168148,
+      "max": 1.0
+    },
+    "forehead_emg": {
+      "mean": 0.9853511770885656,
+      "max": 1.0
+    },
+    "blink_intensity": {
+      "mean": 1.0,
+      "max": 1.0
+    },
+    "movement_intensity": {
+      "mean": 0.012152561878706038,
+      "max": 0.29900190139509414
+    },
+    "data_quality": {
+      "mean": 0.5137772675086107,
+      "min": 0.5
+    }
+  },
+  "artifact_ratio": 1.0,
+  "talking_ratio": 0.5097588978185993,
+  "heart_rate": {
+    "mean": 58.1834189274764,
+    "min": 58.183418927476446,
+    "max": 58.183418927476446
+  },
+  "events_count": 13
+}

@@ -1,0 +1,18 @@
+{
+  "session_id": "20251124_095849",
+  "start_time": "2025-11-24T09:58:49.139803",
+  "end_time": "2025-11-24T09:58:50.849635",
+  "duration_seconds": 1.709832,
+  "device_name": "Muse 2",
+  "sample_rate": 256,
+  "channels": [
+    "TP9",
+    "AF7",
+    "AF8",
+    "TP10"
+  ],
+  "notes": "Meditation session",
+  "tags": [
+    "meditation"
+  ]
+}

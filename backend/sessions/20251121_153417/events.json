@@ -1,0 +1,83 @@
+[
+  {
+    "timestamp": 1763735657.348239,
+    "local_time": "2025-11-21T15:34:17.348246",
+    "event_type": "session_start",
+    "description": "Recording started",
+    "data": null
+  },
+  {
+    "timestamp": 1763735658.701009,
+    "local_time": "2025-11-21T15:34:18.701013",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.7600670136726043,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763735668.58553,
+    "local_time": "2025-11-21T15:34:28.585533",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 9.889723300933838
+    }
+  },
+  {
+    "timestamp": 1763735681.751421,
+    "local_time": "2025-11-21T15:34:41.751426",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.768878953889975,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763735691.840952,
+    "local_time": "2025-11-21T15:34:51.840957",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 10.077089548110962
+    }
+  },
+  {
+    "timestamp": 1763735698.446231,
+    "local_time": "2025-11-21T15:34:58.446236",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.609900271850404,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763735700.005052,
+    "local_time": "2025-11-21T15:35:00.005057",
+    "event_type": "talking_stopped",
+    "description": "Talking stopped",
+    "data": {
+      "duration": 1.5466971397399902
+    }
+  },
+  {
+    "timestamp": 1763735716.169351,
+    "local_time": "2025-11-21T15:35:16.169355",
+    "event_type": "talking",
+    "description": "Talking detected",
+    "data": {
+      "confidence": 0.6174398399510215,
+      "duration": 0.0
+    }
+  },
+  {
+    "timestamp": 1763735717.804959,
+    "local_time": "2025-11-21T15:35:17.804961",
+    "event_type": "session_stop",
+    "description": "Recording stopped. Duration: 60.5s",
+    "data": null
+  }
+]
